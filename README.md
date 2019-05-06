@@ -5,4 +5,9 @@ Compile with:<br/>
 
 Note: must have gcc and gtk+3
 
+Source code may also be compiled following extraction from tarballs with the following:<br/>
+```$ ./configure```<br/>
+```$ make```<br/>
+```$ make install```
+
 
