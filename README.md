@@ -10,4 +10,9 @@ Source code may also be compiled following extraction from tarballs with the fol
 ```$ make```<br/>
 ```$ make install```
 
+Extract tarball with:<br>
+```$ tar -xvf <filename> -C <directory>```
+
+Or, you can leave off -C and just extract to the current working directory.
+
 
